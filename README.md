@@ -1,4 +1,4 @@
-# Data Science Techniques with R/Python
+# Data Science Techniques with Python
 
 This repository demonstrates various data science techniques using R and Python, covering data preparation, exploratory data analysis, modeling, and evaluation.
 
@@ -22,94 +22,94 @@ This repository demonstrates various data science techniques using R and Python,
 ## Basics of Coding
 
 - Using Comments in R/Python
-- Executing Commands in R/Python
-- Importing Packages in R/Python
-- Getting Data into R
-- Saving Output in R/Python
-- Accessing Records and Variables in R/Python
+- Executing Commands in Python
+- Importing Packages in Python
+
+- Saving Output in Python
+- Accessing Records and Variables in Python
 
 ---
 
 ## Data Preparation
 
-- How to Add an Index Field using R/Python
-- How to Change Misleading Field Values using R/Python
-- How to Re-Express Categorical Field Values using R/Python
-- How to Standardize Numeric Fields using R/Python
-- How to Identify Outliers using R/Python
+- How to Add an Index Field using Python
+- How to Change Misleading Field Values using Python
+- How to Re-Express Categorical Field Values using Python
+- How to Standardize Numeric Fields using Python
+- How to Identify Outliers using Python
 
 ---
 
 ## Exploratory Data Analysis
 
-- How to Construct a Bar Graph with Overlay using R/Python
-- How to Construct Contingency Tables using R/Python
-- How to Construct Histograms with Overlay using R/Python
-- How to Perform Binning Based on Predictive Value using R/Python
+- How to Construct a Bar Graph with Overlay using Python
+- How to Construct Contingency Tables using Python
+- How to Construct Histograms with Overlay using Python
+- How to Perform Binning Based on Predictive Value using Python
 
 ---
 
 ## Data Preparation for Modeling
 
-- How to Partition the Data using R/Python
-- How to Balance the Training Data Set using R/Python
-- How to Build CART Decision Trees using R/Python
-- How to Build C5.0 Decision Trees using R/Python
-- How to Build Random Forests using R/Python
+- How to Partition the Data using Python
+- How to Balance the Training Data Set using Python
+- How to Build CART Decision Trees using Python
+- How to Build C5.0 Decision Trees using Python
+- How to Build Random Forests using Python
 
 ---
 
 ## Model Evaluation
 
-- How to Perform Model Evaluation using R/Python
-- Accounting for Unequal Error Costs using R/Python
+- How to Perform Model Evaluation using Python
+- Accounting for Unequal Error Costs using Python
 
 ---
 
 ## Naïve Bayes Classification
 
-- Demonstrating the Application of Naïve Bayes using R/Python
+- Demonstrating the Application of Naïve Bayes using Python
 
 ---
 
 ## Neural Networks
 
-- Demonstrating the Application of Neural Networks using R/Python
+- Demonstrating the Application of Neural Networks using Python
 
 ---
 
 ## Clustering
 
-- Demonstrating the Application of k-Means Clustering using R/Python
+- Demonstrating the Application of k-Means Clustering using Python
 
 ---
 
 ## Regression Modeling
 
-- Demonstrating Estimation Model Evaluation using R/Python
-- Demonstrating Stepwise Regression using R/Python
+- Demonstrating Estimation Model Evaluation using Python
+- Demonstrating Stepwise Regression using Python
 
 ---
 
 ## Dimension Reduction
 
-- How to Identify Multicollinearity using R/Python
-- How to Apply Principal Components Analysis (PCA) using R/Python
+- How to Identify Multicollinearity using Python
+- How to Apply Principal Components Analysis (PCA) using Python
 
 ---
 
 ## Logistic Regression Modeling
 
-- How to Perform Logistic Regression using R/Python
-- How to Perform Poisson Regression using R/Python
+- How to Perform Logistic Regression using Python
+- How to Perform Poisson Regression using Python
 
 ---
 
 ## Association Rules
 
-- How to Mine Association Rules using R/Python
-- How to Apply the Confidence Difference Criterion using R/Python
-- How to Apply the Confidence Quotient Criterion using R/Python
+- How to Mine Association Rules using Python
+- How to Apply the Confidence Difference Criterion using Python
+- How to Apply the Confidence Quotient Criterion using Python
 
 ---
 
